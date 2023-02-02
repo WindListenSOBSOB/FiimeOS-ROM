@@ -1,7 +1,7 @@
 Ki# JPG-project
 <div align="center">
    <img width="160" src="![7753931](https://user-images.githubusercontent.com/124235372/216249236-4c40f30d-4f48-4845-ba41-b5053205b1f2.jpeg)
-" alt="logo"></br>
+
 
 ----
 Fiime,SeeTheWorld.
