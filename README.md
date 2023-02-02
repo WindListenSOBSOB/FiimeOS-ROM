@@ -5,6 +5,7 @@ Ki# JPG-project
 
 ----
 Fiime,SeeTheWorld.
+
 FiimeOS 是一个在全平台下运行，为所有能显示JPG—rom的设备进行系统更改并催生出4396个诺贝尔奖得主的刷机方式的完整ROM生态
 
 此项目的英文全称为File Intelligence Inter Media romEd.
